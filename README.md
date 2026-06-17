@@ -45,9 +45,9 @@ number-guessing-game/
 
 Add your GitHub Pages link here after deployment:
 
-```text
-https://yourusername.github.io/number-guessing-game/
-```
+## 🌐 Live Demo
+
+https://vibhuyadav1192081-cpu.github.io/number-guessing-game/
 
 ## 📸 Screenshot
 
