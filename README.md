@@ -52,6 +52,7 @@ https://yourusername.github.io/number-guessing-game/
 ## 📸 Screenshot
 
 Add a screenshot of your game here.
+Screenshot 2026-06-18 004444.png
 
 ## 👨‍💻 Author
 
